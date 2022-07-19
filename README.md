@@ -1,5 +1,7 @@
 ### Hello world 👋
 
+- 🌱 I’m currently learning rust
+
 <!--
 **sharkLoc/sharkLoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
