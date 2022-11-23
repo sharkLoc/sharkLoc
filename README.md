@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning rust
 - 📫 dwood8146@gmail.com
+- 📰 [ORCID](https://orcid.org/0000-0002-0730-5670/print)
 
 <!--
 **sharkLoc/sharkLoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
