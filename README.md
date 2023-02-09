@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sharkLoc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<script>
+
 <a href="https://www.revolvermaps.com/livestats/5mm52osr5mc/">
   <img src="//rf.revolvermaps.com/h/m/a/4/ff0000/128/0/5mm52osr5mc.png" width="256" height="128" alt="Map" style="border:0;">
 </a>
-<script/>
+
