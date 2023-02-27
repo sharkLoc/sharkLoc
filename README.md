@@ -28,13 +28,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkLoc&hide_border=true&layout=compact&langs_count=6&theme=github" />
 </a>
 
-<span > <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Rsut-1572B6?style=flat-square&logo=Rust" /> 
-<img src="https://img.shields.io/badge/-shell-oringe?style=flat-square&logo=shell" /> </span>
-
-
-
-<a href="https://www.revolvermaps.com/livestats/5mm52osr5mc/">
-  <img src="//rf.revolvermaps.com/h/m/a/4/ff0000/128/0/5mm52osr5mc.png" width="256" height="128" alt="Map" style="border:0;">
-</a>
+<span > 
+  <img src="https://img.shields.io/badge/-Perl-tomato?style=flat-square&logo=Perl" /> 
+  <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rsut-1572B6?style=flat-square&logo=Rust" /> 
+  <img src="https://img.shields.io/badge/-shell-oringe?style=flat-square&logo=shell" /> 
+</span>
 
