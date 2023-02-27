@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <span > 
   <img src="https://img.shields.io/badge/-Perl-tomato?style=flat-square&logo=Perl" /> 
-  <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rsut-1572B6?style=flat-square&logo=Rust" /> 
-  <img src="https://img.shields.io/badge/-shell-oringe?style=flat-square&logo=shell" /> 
+<!--  <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" />  -->
+  <img src="https://img.shields.io/badge/-Rsut-oringe?style=flat-square&logo=Rust" /> 
+  <img src="https://img.shields.io/badge/-shell-1572B6?style=flat-square&logo=shell" /> 
 </span>
 
