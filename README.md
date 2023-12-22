@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning rust
 - 📫 dwood8146@gmail.com
-- 📃 [cnblogs](https://www.cnblogs.com/mmtinfo/)
 - 📰 [ORCID](https://orcid.org/0000-0002-0730-5670/print)
 
 <!--
