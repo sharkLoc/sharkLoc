@@ -1,6 +1,6 @@
 ### Hello world 👋
-
-- 🌱 I’m currently learning rust
+- 😄 I'm a bioinformatics engineer.
+- 🌱 I'm currently learning rust
 - 📫 dwood8146@gmail.com
 - 📰 [ORCID](https://orcid.org/0000-0002-0730-5670/print)
 
