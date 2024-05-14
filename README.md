@@ -1,9 +1,9 @@
 ### Hello world 👋
-- 😄 I'm a bioinformatics engineer.
+- 🧬 I'm a bioinformatics engineer.
 - 🌱 I'm currently learning rust
 - 📫 dwood8146@gmail.com
 - 📰 [ORCID](https://orcid.org/0000-0002-0730-5670/print)
-- 🤔 [blog](https://sharkloc.github.io/)
+- 📝 [blog](https://sharkloc.github.io/)
 
 <!--
 **sharkLoc/sharkLoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
 
 
