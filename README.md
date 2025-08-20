@@ -58,12 +58,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkLoc&hide_border=true&layout=compact&langs_count=6&theme=github" />
 </a>
 
-
+</br>
 <span > 
   <img src="https://img.shields.io/badge/-Perl-tomato?style=flat-square&logo=Perl" /> 
   <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rsut-oringe?style=flat-square&logo=Rust" /> 
   <img src="https://img.shields.io/badge/-shell-1572B6?style=flat-square&logo=shell" /> 
 </span>
+</br>
 </br>
 <a href="https://info.flagcounter.com/lmpT"><img src="https://s11.flagcounter.com/map/lmpT/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
