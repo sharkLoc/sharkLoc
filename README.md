@@ -47,10 +47,15 @@ Here are some ideas to get you started:
 
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharkLoc&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharkLoc&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharkLoc&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharkLoc&theme=zenburn&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharkLoc&theme=zenburn&utcOffset=8)
 
 
 
-
+<!--
 <a href="#">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=sharkLoc&count_private=true&show_icons=true&theme=github&hide_border=true" />
 </a>
@@ -68,3 +73,5 @@ Here are some ideas to get you started:
 </br>
 </br>
 <a href="https://info.flagcounter.com/lmpT"><img src="https://s11.flagcounter.com/map/lmpT/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+-->
