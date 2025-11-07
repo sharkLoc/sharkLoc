@@ -42,8 +42,6 @@ Here are some ideas to get you started:
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=sharkLoc&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
 </picture>
 -->
- 
-![github contribution grid snake animation](https://raw.githubusercontent.com/sharkLoc/sharkLoc/output/github-contribution-grid-snake.svg)
 
 
 
@@ -53,6 +51,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharkLoc&theme=zenburn&)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharkLoc&theme=zenburn&utcOffset=8)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/sharkLoc/sharkLoc/output/github-contribution-grid-snake.svg)
 
 
 <!--
